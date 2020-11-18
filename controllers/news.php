@@ -2,4 +2,9 @@
 include("modeles/news.php");
 ?>
 <h1>news</h1>
-<?php var_dump(afficher())?>
+<ul>
+    <?php foreach($produitTab as $p ){?>
+        <li>Nom : <?= $p['nom']?></li>
+
+    <?php } ?>
+</ul>
