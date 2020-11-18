@@ -1,0 +1,4 @@
+Controller : sont les pages qui vont lier les modeles et les vues .
+Modeles : fonctionnalité de la page. on vas avoir tout le systeme php .
+Vues : affichages.Ce que voit l'utilisateur .
+Le site est sur une page . index root vas etre lié au contoller .
