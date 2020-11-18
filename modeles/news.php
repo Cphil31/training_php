@@ -3,3 +3,4 @@
  
  $req = $bdd->query('SELECT * FROM produit ');
  $produitTab = $req->fetchAll();
+ 
